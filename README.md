@@ -17,7 +17,7 @@ Músico y productor. Hago apps con *vibe coding* (con Claude Code) para resolver
 | <img src="img/cotiza.jpg" width="360"> | **Cotiza**: cotizaciones y facturas para músicos. Catálogo de servicios, anticipos, PDF con tu marca y control de cobros.<br><br>**[▶ Pruébala](https://fsheinfeld.github.io/cotiza/)** |
 | <img src="img/shadow.jpg" width="360"> | **Shadow** *(herramienta personal)*: un asistente que vive en mi Mac. Mide en qué se me va el tiempo, encuentra patrones, revisa el tono de mis emails antes de enviarlos y me da un debrief diario con Claude Opus 5.5. Python, SQLite, AppleScript y extensión de Chrome. |
 
-## 🌱 Life Apps
+## 🏠 Home & Other Apps
 
 Próximamente.
 
